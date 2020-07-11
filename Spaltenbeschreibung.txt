@@ -1,0 +1,12 @@
+1. **CRIME**     - Kriminalitätsrate pro Block
+2. **INDUSTRY**    - Anteil der Gewerbeflächen pro Block
+3. **RIVERSIDE**     - Charles River 
+4. **NOX**      - Stickoxidkonzentration (parts per 10 million)
+5. **ROOMS**       - durchschnittliche Anzahl der Zimmer pro Wohnung
+6. **AGE**      - Anteil der vor 1940 gebauten selbstgenutzten Einheiten
+7. **DISTANCE**      - Gewichtete Entfernungen zu fünf Bostoner Arbeitsämtern
+8. **AUTOBAHN**      - Index der Zugänglichkeit zu radialen Autobahnen
+8. **TAX**     - Vollwertiger Grundsteuersatz pro 10.000 €
+10. **EDUCATION** - Schüler-Lehrer-Verhältnis nach Block
+11. **LOW_STATUS**   - niedrigerer Status der Bevölkerung
+12. <span class="mark">**PREIS**    - Medianwert der Eigentumswohnungen in €</span>
